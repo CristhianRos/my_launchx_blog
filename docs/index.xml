@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cristhianros.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nuevo post</title>
+      <title>¿Qué es Node.js, y para qué sirve?</title>
       <link>https://cristhianros.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cristhianros.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Hey! Este es el contenido del nuevo post, disfruta el contenido.</description>
+      <description>Node.js®, Node.js, es un entorno en tiempo de ejecución multiplataforma para la capa del servidor (en el lado del servidor) basado en JavaScript.
+Node.js es un entorno controlado por eventos diseñado para crear aplicaciones escalables, permitiéndote establecer y gestionar múltiples conexiones al mismo tiempo. Gracias a esta característica, no tienes que preocuparte con el bloqueo de procesos, pues no hay bloqueos.</description>
     </item>
     
     <item>
